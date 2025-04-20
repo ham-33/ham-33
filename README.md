@@ -1,10 +1,15 @@
 # 🧑‍💻 ham-ss
 **🌟 New GitHub Account / 新しいアカウントです！**
 
-Hello, I'm **ham**, a student and solo developer.  
-I like building clean systems, server plugins, and creative backends.
+Hi, I'm **ham** — a student and solo developer.  
+I enjoy creating all sorts of things, from practical tools to fun experiments.  
+Lately, I've been using AI tools to speed up development and explore new ideas.
 
-こんにちは、**ham** です。学生エンジニアとして、個人で様々な開発に取り組んでいます。  
+---
+
+こんにちは、**ham** といいます。学生をしながら、ひとりでいろんな開発をしています。  
+便利なものからちょっと変わったものまで、面白いと思ったらすぐつくります。  
+最近は AI を活用しながら、より効率よく・楽しく開発しています。
 
 
 ## 🛠 技術スタック
