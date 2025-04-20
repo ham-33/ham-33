@@ -1,3 +1,6 @@
-# Hello, I'm ham!
+# 🧑‍💻 ham-ss
 
-Welcome to my GitHub profile! Here are some of my projects and interests.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ham-ss&show_icons=true&theme=tokyonight&count_private=true)
+
+
+
