@@ -5,7 +5,7 @@ Hello, I'm **ham**, a student and solo developer.
 I like building clean systems, server plugins, and creative backends.
 
 こんにちは、**ham** です。学生エンジニアとして、個人で様々な開発に取り組んでいます。  
-ゲーム系やインフラ・サーバー関連の開発が得意です。
+
 
 ## 🛠 技術スタック
 
