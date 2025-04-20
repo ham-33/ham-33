@@ -9,7 +9,7 @@ I like building clean systems, server plugins, and creative backends.
 
 ## 🛠 技術スタック
 
-![My Skills](https://skillicons.dev/icons?i=java,go,ts,py,react,nextjs,docker,git,linux,redis,mysql)
+![My Skills](https://skillicons.dev/icons?i=java,py,html,nextjs,linux,redis,mariadb)
 
 ---
 
