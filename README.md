@@ -23,8 +23,7 @@ Lately, I've been using AI tools to speed up development and explore new ideas.
 
 ![ham-ss's GitHub stats](https://github-readme-stats.vercel.app/api?username=ham-ss&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ham-ss&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ham-ss)
 
 
 
