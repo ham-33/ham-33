@@ -12,18 +12,21 @@ Lately, I've been using AI tools to speed up development and explore new ideas.
 便利なものからちょっと変わったものまで、面白いと思ったらすぐつくります。  
 最近は AI を活用しながら、より効率よく・楽しく開発しています。
 
+---
 
 ## 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,py,html,nextjs,linux,redis,mariadb)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,html,nextjs,linux,redis,mariadb" alt="Tech stack" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![ham-ss's GitHub stats](https://github-readme-stats.vercel.app/api?username=ham-ss&show_icons=true&theme=tokyonight&count_private=true)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ham-ss&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ham-ss&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ham-ss)
-
-
-
+---
