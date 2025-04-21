@@ -25,8 +25,8 @@ Lately, I've been using AI tools to speed up development and explore new ideas.
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ham-ss&show_icons=true&theme=radical)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ham-ss&layout=compact" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ham-ss&show_icons=true&theme=radical" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ham-ss&layout=compact" />
 </p>
 
 ---
