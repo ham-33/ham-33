@@ -22,13 +22,8 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,linux,html,nextjs,mariadb,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,py,linux,html,nextjs,mariadb," />
 </p>
-
-- **Language**: Java / Python / HTML / JS (Next.js)
-- **Database**: MariaDB / JDBC / YAML構成
-- **Env**: Linux / Proxmox / Cloudflare Zero Trust
-- **Tool**: IntelliJ / Maven / Git / GitHub Actions
 
 ---
 
