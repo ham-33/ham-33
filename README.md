@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,linux,html,nextjs,mariadb," />
+  <img src="https://skillicons.dev/icons?i=java,py,linux,html,nextjs,mysql," />
 </p>
 
 ---
