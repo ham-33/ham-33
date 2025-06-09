@@ -1,5 +1,5 @@
 <h1 align="center">🧑‍💻 ham-33</h1>
-<p align="center">Minecraft Folia Plugin Developer | MARV CTO | Engineering Student</p>
+<p align="center">MARV Founder & COO | Engineering Student</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
@@ -7,15 +7,6 @@
   <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
-
----
-
-## 📝 About Me
-
-- 🎓 工学部学生（プログラミング / サーバー構築）
-- 🧠 AI×開発：ChatGPT・Copilotで爆速実装
-- 🌍 Minecraftサーバー「MARV」シリーズの運営・開発
-- 🛠 自作プラグインの開発と自鯖適用に力を入れています
 
 ---
 
