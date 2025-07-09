@@ -1,5 +1,4 @@
 <h1 align="center">🧑‍💻 ham-33</h1>
-<p align="center">MARV Founder & COO | Engineering Student</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
