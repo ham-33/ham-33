@@ -29,7 +29,7 @@
 ## 📫 Contact
 
 - GitHub: [@ham-33](https://github.com/ham-33)
-- Website: [https://marvgame.net](https://marvgame.net)
+- Website: [https://marvgame.com](https://marvgame.com)
 
 ---
 
